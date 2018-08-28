@@ -1,0 +1,692 @@
+Info: Reading netlist file "Z:\Electronics\Designs\SY99_8MBEX\SY99_8MBEX.net".
+
+Info: Using references to match components and footprints.
+
+Info: Checking netlist component footprint "BT1:/5B533BF1:digikey-footprints:Battery_Holder_Coin_2032_BS-7".
+
+Adding new component "BT1:/5B533BF1" footprint "digikey-footprints:Battery_Holder_Coin_2032_BS-7".
+
+Info: Checking netlist component footprint "C1:/5B533D70:Capacitors_Tantalum_SMD:CP_Tantalum_Case-B_EIA-3528-21_Reflow".
+
+Adding new component "C1:/5B533D70" footprint "Capacitors_Tantalum_SMD:CP_Tantalum_Case-B_EIA-3528-21_Reflow".
+
+Changing component "C1:/5B533D70" pin "1" net name from "" to "/SBT".
+
+Changing component "C1:/5B533D70" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C2:/5B53B82D:Capacitors_Tantalum_SMD:CP_Tantalum_Case-B_EIA-3528-21_Reflow".
+
+Adding new component "C2:/5B53B82D" footprint "Capacitors_Tantalum_SMD:CP_Tantalum_Case-B_EIA-3528-21_Reflow".
+
+Changing component "C2:/5B53B82D" pin "1" net name from "" to "+3V3".
+
+Changing component "C2:/5B53B82D" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C3:/5B588ED3:Capacitors_Tantalum_SMD:CP_Tantalum_Case-B_EIA-3528-21_Reflow".
+
+Adding new component "C3:/5B588ED3" footprint "Capacitors_Tantalum_SMD:CP_Tantalum_Case-B_EIA-3528-21_Reflow".
+
+Changing component "C3:/5B588ED3" pin "1" net name from "" to "+5V".
+
+Changing component "C3:/5B588ED3" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C4:/5B58BEBE:Capacitors_Tantalum_SMD:CP_Tantalum_Case-A_EIA-3216-18_Reflow".
+
+Adding new component "C4:/5B58BEBE" footprint "Capacitors_Tantalum_SMD:CP_Tantalum_Case-A_EIA-3216-18_Reflow".
+
+Changing component "C4:/5B58BEBE" pin "1" net name from "" to "+5V".
+
+Changing component "C4:/5B58BEBE" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C5:/5B58D1AC:Capacitors_Tantalum_SMD:CP_Tantalum_Case-A_EIA-3216-18_Reflow".
+
+Adding new component "C5:/5B58D1AC" footprint "Capacitors_Tantalum_SMD:CP_Tantalum_Case-A_EIA-3216-18_Reflow".
+
+Changing component "C5:/5B58D1AC" pin "1" net name from "" to "+3V3".
+
+Changing component "C5:/5B58D1AC" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "D1:/5B58C856:digikey-footprints:LED_5mm_Radial".
+
+Adding new component "D1:/5B58C856" footprint "digikey-footprints:LED_5mm_Radial".
+
+Changing component "D1:/5B58C856" pin "2" net name from "" to "Net-(D1-Pad2)".
+
+Changing component "D1:/5B58C856" pin "1" net name from "" to "GND".
+
+Info: Checking netlist component footprint "D2:/5B58D857:digikey-footprints:LED_5mm_Radial".
+
+Adding new component "D2:/5B58D857" footprint "digikey-footprints:LED_5mm_Radial".
+
+Changing component "D2:/5B58D857" pin "2" net name from "" to "Net-(D2-Pad2)".
+
+Changing component "D2:/5B58D857" pin "1" net name from "" to "GND".
+
+Info: Checking netlist component footprint "J1:/5B54FB0F:Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm".
+
+Adding new component "J1:/5B54FB0F" footprint "Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm".
+
+Changing component "J1:/5B54FB0F" pin "1" net name from "" to "/AIN20".
+
+Changing component "J1:/5B54FB0F" pin "2" net name from "" to "/AIN21".
+
+Info: Checking netlist component footprint "J2:/5B533993:Pin_Headers:Pin_Header_Straight_2x20_Pitch2.54mm".
+
+Adding new component "J2:/5B533993" footprint "Pin_Headers:Pin_Header_Straight_2x20_Pitch2.54mm".
+
+Changing component "J2:/5B533993" pin "1" net name from "" to "/D15".
+
+Changing component "J2:/5B533993" pin "2" net name from "" to "GND".
+
+Changing component "J2:/5B533993" pin "3" net name from "" to "/D13".
+
+Changing component "J2:/5B533993" pin "4" net name from "" to "/D14".
+
+Changing component "J2:/5B533993" pin "5" net name from "" to "/D11".
+
+Changing component "J2:/5B533993" pin "6" net name from "" to "/D12".
+
+Changing component "J2:/5B533993" pin "7" net name from "" to "/D9".
+
+Changing component "J2:/5B533993" pin "8" net name from "" to "/D10".
+
+Changing component "J2:/5B533993" pin "9" net name from "" to "/D7".
+
+Changing component "J2:/5B533993" pin "10" net name from "" to "/D8".
+
+Changing component "J2:/5B533993" pin "11" net name from "" to "/D5".
+
+Changing component "J2:/5B533993" pin "12" net name from "" to "/D6".
+
+Changing component "J2:/5B533993" pin "13" net name from "" to "/D3".
+
+Changing component "J2:/5B533993" pin "14" net name from "" to "/D4".
+
+Changing component "J2:/5B533993" pin "15" net name from "" to "/D1".
+
+Changing component "J2:/5B533993" pin "16" net name from "" to "/D2".
+
+Changing component "J2:/5B533993" pin "17" net name from "" to "+5V".
+
+Changing component "J2:/5B533993" pin "18" net name from "" to "/D0".
+
+Changing component "J2:/5B533993" pin "19" net name from "" to "Net-(J2-Pad19)".
+
+Changing component "J2:/5B533993" pin "20" net name from "" to "/AIN23".
+
+Changing component "J2:/5B533993" pin "21" net name from "" to "/AIN18".
+
+Changing component "J2:/5B533993" pin "22" net name from "" to "/AIN19".
+
+Changing component "J2:/5B533993" pin "23" net name from "" to "/AIN16".
+
+Changing component "J2:/5B533993" pin "24" net name from "" to "/AIN17".
+
+Changing component "J2:/5B533993" pin "25" net name from "" to "/AIN14".
+
+Changing component "J2:/5B533993" pin "26" net name from "" to "/AIN15".
+
+Changing component "J2:/5B533993" pin "27" net name from "" to "/AIN12".
+
+Changing component "J2:/5B533993" pin "28" net name from "" to "/AIN13".
+
+Changing component "J2:/5B533993" pin "29" net name from "" to "/AIN10".
+
+Changing component "J2:/5B533993" pin "30" net name from "" to "/AIN11".
+
+Changing component "J2:/5B533993" pin "31" net name from "" to "/AIN8".
+
+Changing component "J2:/5B533993" pin "32" net name from "" to "/AIN9".
+
+Changing component "J2:/5B533993" pin "33" net name from "" to "/AIN6".
+
+Changing component "J2:/5B533993" pin "34" net name from "" to "/AIN7".
+
+Changing component "J2:/5B533993" pin "35" net name from "" to "/AIN4".
+
+Changing component "J2:/5B533993" pin "36" net name from "" to "/AIN5".
+
+Changing component "J2:/5B533993" pin "37" net name from "" to "/AIN2".
+
+Changing component "J2:/5B533993" pin "38" net name from "" to "/AIN3".
+
+Changing component "J2:/5B533993" pin "39" net name from "" to "/AIN0".
+
+Changing component "J2:/5B533993" pin "40" net name from "" to "/AIN1".
+
+Info: Checking netlist component footprint "J3:/5B5339EC:Pin_Headers:Pin_Header_Straight_1x14_Pitch2.54mm".
+
+Adding new component "J3:/5B5339EC" footprint "Pin_Headers:Pin_Header_Straight_1x14_Pitch2.54mm".
+
+Changing component "J3:/5B5339EC" pin "1" net name from "" to "GND".
+
+Changing component "J3:/5B5339EC" pin "2" net name from "" to "/SBT".
+
+Changing component "J3:/5B5339EC" pin "3" net name from "" to "/SBT".
+
+Changing component "J3:/5B5339EC" pin "4" net name from "" to "/SBT".
+
+Changing component "J3:/5B5339EC" pin "5" net name from "" to "/SBT".
+
+Changing component "J3:/5B5339EC" pin "6" net name from "" to "/SBT".
+
+Changing component "J3:/5B5339EC" pin "7" net name from "" to "GND".
+
+Changing component "J3:/5B5339EC" pin "8" net name from "" to "Net-(J3-Pad8)".
+
+Changing component "J3:/5B5339EC" pin "9" net name from "" to "Net-(J3-Pad9)".
+
+Changing component "J3:/5B5339EC" pin "10" net name from "" to "/~ICIN".
+
+Changing component "J3:/5B5339EC" pin "11" net name from "" to "/~OEIN".
+
+Changing component "J3:/5B5339EC" pin "12" net name from "" to "/~MSBWIN".
+
+Changing component "J3:/5B5339EC" pin "13" net name from "" to "/~LSBWIN".
+
+Changing component "J3:/5B5339EC" pin "14" net name from "" to "GND".
+
+Info: Checking netlist component footprint "R1:/5B58C661:Resistors_SMD:R_1210_HandSoldering".
+
+Adding new component "R1:/5B58C661" footprint "Resistors_SMD:R_1210_HandSoldering".
+
+Changing component "R1:/5B58C661" pin "1" net name from "" to "Net-(D1-Pad2)".
+
+Changing component "R1:/5B58C661" pin "2" net name from "" to "+5V".
+
+Info: Checking netlist component footprint "R2:/5B58D5EB:Resistors_SMD:R_1210_HandSoldering".
+
+Adding new component "R2:/5B58D5EB" footprint "Resistors_SMD:R_1210_HandSoldering".
+
+Changing component "R2:/5B58D5EB" pin "1" net name from "" to "Net-(D2-Pad2)".
+
+Changing component "R2:/5B58D5EB" pin "2" net name from "" to "+3V3".
+
+Info: Checking netlist component footprint "U1:/5B532093:74ALVC164245DGG_51:SOP50P810X120-48N".
+
+Adding new component "U1:/5B532093" footprint "74ALVC164245DGG_51:SOP50P810X120-48N".
+
+Changing component "U1:/5B532093" pin "1" net name from "" to "GND".
+
+Changing component "U1:/5B532093" pin "2" net name from "" to "/AIN0".
+
+Changing component "U1:/5B532093" pin "3" net name from "" to "/AIN1".
+
+Changing component "U1:/5B532093" pin "4" net name from "" to "GND".
+
+Changing component "U1:/5B532093" pin "5" net name from "" to "/AIN2".
+
+Changing component "U1:/5B532093" pin "6" net name from "" to "/AIN3".
+
+Changing component "U1:/5B532093" pin "7" net name from "" to "+5V".
+
+Changing component "U1:/5B532093" pin "8" net name from "" to "/AIN4".
+
+Changing component "U1:/5B532093" pin "9" net name from "" to "/AIN5".
+
+Changing component "U1:/5B532093" pin "10" net name from "" to "GND".
+
+Changing component "U1:/5B532093" pin "11" net name from "" to "/AIN6".
+
+Changing component "U1:/5B532093" pin "12" net name from "" to "/AIN7".
+
+Changing component "U1:/5B532093" pin "13" net name from "" to "/AIN8".
+
+Changing component "U1:/5B532093" pin "14" net name from "" to "/AIN9".
+
+Changing component "U1:/5B532093" pin "15" net name from "" to "GND".
+
+Changing component "U1:/5B532093" pin "16" net name from "" to "/AIN10".
+
+Changing component "U1:/5B532093" pin "17" net name from "" to "/AIN11".
+
+Changing component "U1:/5B532093" pin "18" net name from "" to "+5V".
+
+Changing component "U1:/5B532093" pin "19" net name from "" to "/AIN12".
+
+Changing component "U1:/5B532093" pin "20" net name from "" to "/AIN13".
+
+Changing component "U1:/5B532093" pin "21" net name from "" to "GND".
+
+Changing component "U1:/5B532093" pin "22" net name from "" to "/AIN14".
+
+Changing component "U1:/5B532093" pin "23" net name from "" to "/AIN15".
+
+Changing component "U1:/5B532093" pin "24" net name from "" to "GND".
+
+Changing component "U1:/5B532093" pin "25" net name from "" to "GND".
+
+Changing component "U1:/5B532093" pin "26" net name from "" to "/A15".
+
+Changing component "U1:/5B532093" pin "27" net name from "" to "/A14".
+
+Changing component "U1:/5B532093" pin "28" net name from "" to "GND".
+
+Changing component "U1:/5B532093" pin "29" net name from "" to "/A13".
+
+Changing component "U1:/5B532093" pin "30" net name from "" to "/A12".
+
+Changing component "U1:/5B532093" pin "31" net name from "" to "+3V3".
+
+Changing component "U1:/5B532093" pin "32" net name from "" to "/A11".
+
+Changing component "U1:/5B532093" pin "33" net name from "" to "/A10".
+
+Changing component "U1:/5B532093" pin "34" net name from "" to "GND".
+
+Changing component "U1:/5B532093" pin "35" net name from "" to "/A9".
+
+Changing component "U1:/5B532093" pin "36" net name from "" to "/A8".
+
+Changing component "U1:/5B532093" pin "37" net name from "" to "/A7".
+
+Changing component "U1:/5B532093" pin "38" net name from "" to "/A6".
+
+Changing component "U1:/5B532093" pin "39" net name from "" to "GND".
+
+Changing component "U1:/5B532093" pin "40" net name from "" to "/A5".
+
+Changing component "U1:/5B532093" pin "41" net name from "" to "/A4".
+
+Changing component "U1:/5B532093" pin "42" net name from "" to "+3V3".
+
+Changing component "U1:/5B532093" pin "43" net name from "" to "/A3".
+
+Changing component "U1:/5B532093" pin "44" net name from "" to "/A2".
+
+Changing component "U1:/5B532093" pin "45" net name from "" to "GND".
+
+Changing component "U1:/5B532093" pin "46" net name from "" to "/A1".
+
+Changing component "U1:/5B532093" pin "47" net name from "" to "/A0".
+
+Changing component "U1:/5B532093" pin "48" net name from "" to "GND".
+
+Info: Checking netlist component footprint "U2:/5B532133:74ALVC164245DGG_51:SOP50P810X120-48N".
+
+Adding new component "U2:/5B532133" footprint "74ALVC164245DGG_51:SOP50P810X120-48N".
+
+Changing component "U2:/5B532133" pin "1" net name from "" to "GND".
+
+Changing component "U2:/5B532133" pin "2" net name from "" to "/AIN16".
+
+Changing component "U2:/5B532133" pin "3" net name from "" to "/AIN17".
+
+Changing component "U2:/5B532133" pin "4" net name from "" to "GND".
+
+Changing component "U2:/5B532133" pin "5" net name from "" to "/AIN18".
+
+Changing component "U2:/5B532133" pin "6" net name from "" to "/AIN19".
+
+Changing component "U2:/5B532133" pin "7" net name from "" to "+5V".
+
+Changing component "U2:/5B532133" pin "8" net name from "" to "/AIN20".
+
+Changing component "U2:/5B532133" pin "9" net name from "" to "/AIN21".
+
+Changing component "U2:/5B532133" pin "10" net name from "" to "GND".
+
+Changing component "U2:/5B532133" pin "11" net name from "" to "Net-(U2-Pad11)".
+
+Changing component "U2:/5B532133" pin "12" net name from "" to "/AIN23".
+
+Changing component "U2:/5B532133" pin "13" net name from "" to "/~ICIN".
+
+Changing component "U2:/5B532133" pin "14" net name from "" to "/~OEIN".
+
+Changing component "U2:/5B532133" pin "15" net name from "" to "GND".
+
+Changing component "U2:/5B532133" pin "16" net name from "" to "/~MSBWIN".
+
+Changing component "U2:/5B532133" pin "17" net name from "" to "/~LSBWIN".
+
+Changing component "U2:/5B532133" pin "18" net name from "" to "+5V".
+
+Changing component "U2:/5B532133" pin "19" net name from "" to "Net-(U2-Pad19)".
+
+Changing component "U2:/5B532133" pin "20" net name from "" to "Net-(U2-Pad20)".
+
+Changing component "U2:/5B532133" pin "21" net name from "" to "GND".
+
+Changing component "U2:/5B532133" pin "22" net name from "" to "Net-(U2-Pad22)".
+
+Changing component "U2:/5B532133" pin "23" net name from "" to "Net-(U2-Pad23)".
+
+Changing component "U2:/5B532133" pin "24" net name from "" to "GND".
+
+Changing component "U2:/5B532133" pin "25" net name from "" to "GND".
+
+Changing component "U2:/5B532133" pin "26" net name from "" to "Net-(U2-Pad26)".
+
+Changing component "U2:/5B532133" pin "27" net name from "" to "Net-(U2-Pad27)".
+
+Changing component "U2:/5B532133" pin "28" net name from "" to "GND".
+
+Changing component "U2:/5B532133" pin "29" net name from "" to "Net-(U2-Pad29)".
+
+Changing component "U2:/5B532133" pin "30" net name from "" to "Net-(U2-Pad30)".
+
+Changing component "U2:/5B532133" pin "31" net name from "" to "+3V3".
+
+Changing component "U2:/5B532133" pin "32" net name from "" to "/~LSBW".
+
+Changing component "U2:/5B532133" pin "33" net name from "" to "/~MSBW".
+
+Changing component "U2:/5B532133" pin "34" net name from "" to "GND".
+
+Changing component "U2:/5B532133" pin "35" net name from "" to "/~OE".
+
+Changing component "U2:/5B532133" pin "36" net name from "" to "/~IC".
+
+Changing component "U2:/5B532133" pin "37" net name from "" to "/A23".
+
+Changing component "U2:/5B532133" pin "38" net name from "" to "Net-(U2-Pad38)".
+
+Changing component "U2:/5B532133" pin "39" net name from "" to "GND".
+
+Changing component "U2:/5B532133" pin "40" net name from "" to "/A21".
+
+Changing component "U2:/5B532133" pin "41" net name from "" to "/A20".
+
+Changing component "U2:/5B532133" pin "42" net name from "" to "+3V3".
+
+Changing component "U2:/5B532133" pin "43" net name from "" to "/A19".
+
+Changing component "U2:/5B532133" pin "44" net name from "" to "/A18".
+
+Changing component "U2:/5B532133" pin "45" net name from "" to "GND".
+
+Changing component "U2:/5B532133" pin "46" net name from "" to "/A17".
+
+Changing component "U2:/5B532133" pin "47" net name from "" to "/A16".
+
+Changing component "U2:/5B532133" pin "48" net name from "" to "GND".
+
+Info: Checking netlist component footprint "U3:/5B531EE9:AZ1117EH-3.3TRG1:SOT230P700X180-4N".
+
+Adding new component "U3:/5B531EE9" footprint "AZ1117EH-3.3TRG1:SOT230P700X180-4N".
+
+Changing component "U3:/5B531EE9" pin "1" net name from "" to "GND".
+
+Changing component "U3:/5B531EE9" pin "2" net name from "" to "+3V3".
+
+Changing component "U3:/5B531EE9" pin "3" net name from "" to "+5V".
+
+Changing component "U3:/5B531EE9" pin "4" net name from "" to "+3V3".
+
+Info: Checking netlist component footprint "U4:/5B53F620:SN74LVC1G97DBVR:SOT95P280X145-6N".
+
+Adding new component "U4:/5B53F620" footprint "SN74LVC1G97DBVR:SOT95P280X145-6N".
+
+Changing component "U4:/5B53F620" pin "1" net name from "" to "GND".
+
+Changing component "U4:/5B53F620" pin "2" net name from "" to "GND".
+
+Changing component "U4:/5B53F620" pin "3" net name from "" to "/~MSBW".
+
+Changing component "U4:/5B53F620" pin "4" net name from "" to "Net-(U4-Pad4)".
+
+Changing component "U4:/5B53F620" pin "5" net name from "" to "+3V3".
+
+Changing component "U4:/5B53F620" pin "6" net name from "" to "/~LSBW".
+
+Info: Checking netlist component footprint "U5:/5B53F52E:SN74LVC1G97DBVR:SOT95P280X145-6N".
+
+Adding new component "U5:/5B53F52E" footprint "SN74LVC1G97DBVR:SOT95P280X145-6N".
+
+Changing component "U5:/5B53F52E" pin "1" net name from "" to "/~LSBW".
+
+Changing component "U5:/5B53F52E" pin "2" net name from "" to "GND".
+
+Changing component "U5:/5B53F52E" pin "3" net name from "" to "GND".
+
+Changing component "U5:/5B53F52E" pin "4" net name from "" to "Net-(U5-Pad4)".
+
+Changing component "U5:/5B53F52E" pin "5" net name from "" to "+3V3".
+
+Changing component "U5:/5B53F52E" pin "6" net name from "" to "/~MSBW".
+
+Info: Checking netlist component footprint "U6:/5B53F486:SN74LVC1G97DBVR:SOT95P280X145-6N".
+
+Adding new component "U6:/5B53F486" footprint "SN74LVC1G97DBVR:SOT95P280X145-6N".
+
+Changing component "U6:/5B53F486" pin "1" net name from "" to "/~MSBW".
+
+Changing component "U6:/5B53F486" pin "2" net name from "" to "GND".
+
+Changing component "U6:/5B53F486" pin "3" net name from "" to "GND".
+
+Changing component "U6:/5B53F486" pin "4" net name from "" to "Net-(U6-Pad4)".
+
+Changing component "U6:/5B53F486" pin "5" net name from "" to "+3V3".
+
+Changing component "U6:/5B53F486" pin "6" net name from "" to "/~LSBW".
+
+Info: Checking netlist component footprint "U7:/5B532CD9:SOP65P640X120-16N:SOP65P640X120-16N".
+
+Adding new component "U7:/5B532CD9" footprint "SOP65P640X120-16N:SOP65P640X120-16N".
+
+Changing component "U7:/5B532CD9" pin "1" net name from "" to "GND".
+
+Changing component "U7:/5B532CD9" pin "2" net name from "" to "Net-(U7-Pad2)".
+
+Changing component "U7:/5B532CD9" pin "3" net name from "" to "Net-(U7-Pad3)".
+
+Changing component "U7:/5B532CD9" pin "4" net name from "" to "GND".
+
+Changing component "U7:/5B532CD9" pin "5" net name from "" to "GND".
+
+Changing component "U7:/5B532CD9" pin "6" net name from "" to "Net-(U7-Pad6)".
+
+Changing component "U7:/5B532CD9" pin "7" net name from "" to "Net-(U7-Pad7)".
+
+Changing component "U7:/5B532CD9" pin "8" net name from "" to "GND".
+
+Changing component "U7:/5B532CD9" pin "9" net name from "" to "/SBT".
+
+Changing component "U7:/5B532CD9" pin "10" net name from "" to "Net-(U7-Pad10)".
+
+Changing component "U7:/5B532CD9" pin "11" net name from "" to "/A23".
+
+Changing component "U7:/5B532CD9" pin "12" net name from "" to "+3V3".
+
+Changing component "U7:/5B532CD9" pin "13" net name from "" to "Net-(U7-Pad13)".
+
+Changing component "U7:/5B532CD9" pin "14" net name from "" to "Net-(U7-Pad14)".
+
+Changing component "U7:/5B532CD9" pin "15" net name from "" to "Net-(U7-Pad15)".
+
+Changing component "U7:/5B532CD9" pin "16" net name from "" to "Net-(U7-Pad16)".
+
+Info: Checking netlist component footprint "U8:/5B531E1E:TSOP48:TSOP48".
+
+Adding new component "U8:/5B531E1E" footprint "TSOP48:TSOP48".
+
+Changing component "U8:/5B531E1E" pin "26" net name from "" to "Net-(U7-Pad10)".
+
+Changing component "U8:/5B531E1E" pin "27" net name from "" to "GND".
+
+Changing component "U8:/5B531E1E" pin "28" net name from "" to "/~OE".
+
+Changing component "U8:/5B531E1E" pin "29" net name from "" to "Net-(U8-Pad29)".
+
+Changing component "U8:/5B531E1E" pin "30" net name from "" to "Net-(U10-Pad1)".
+
+Changing component "U8:/5B531E1E" pin "31" net name from "" to "Net-(U8-Pad31)".
+
+Changing component "U8:/5B531E1E" pin "32" net name from "" to "Net-(U10-Pad3)".
+
+Changing component "U8:/5B531E1E" pin "33" net name from "" to "Net-(U8-Pad33)".
+
+Changing component "U8:/5B531E1E" pin "34" net name from "" to "Net-(U10-Pad4)".
+
+Changing component "U8:/5B531E1E" pin "35" net name from "" to "Net-(U8-Pad35)".
+
+Changing component "U8:/5B531E1E" pin "36" net name from "" to "Net-(U10-Pad5)".
+
+Changing component "U8:/5B531E1E" pin "38" net name from "" to "Net-(U8-Pad38)".
+
+Changing component "U8:/5B531E1E" pin "40" net name from "" to "Net-(U8-Pad40)".
+
+Changing component "U8:/5B531E1E" pin "37" net name from "" to "Net-(U7-Pad13)".
+
+Changing component "U8:/5B531E1E" pin "39" net name from "" to "Net-(U10-Pad6)".
+
+Changing component "U8:/5B531E1E" pin "42" net name from "" to "Net-(U8-Pad42)".
+
+Changing component "U8:/5B531E1E" pin "44" net name from "" to "Net-(U8-Pad44)".
+
+Changing component "U8:/5B531E1E" pin "41" net name from "" to "Net-(U10-Pad7)".
+
+Changing component "U8:/5B531E1E" pin "43" net name from "" to "Net-(U10-Pad8)".
+
+Changing component "U8:/5B531E1E" pin "45" net name from "" to "Net-(U10-Pad9)".
+
+Changing component "U8:/5B531E1E" pin "46" net name from "" to "GND".
+
+Changing component "U8:/5B531E1E" pin "47" net name from "" to "+3V3".
+
+Changing component "U8:/5B531E1E" pin "25" net name from "" to "/A0".
+
+Changing component "U8:/5B531E1E" pin "48" net name from "" to "/A16".
+
+Changing component "U8:/5B531E1E" pin "23" net name from "" to "/A2".
+
+Changing component "U8:/5B531E1E" pin "22" net name from "" to "/A3".
+
+Changing component "U8:/5B531E1E" pin "21" net name from "" to "/A4".
+
+Changing component "U8:/5B531E1E" pin "20" net name from "" to "/A5".
+
+Changing component "U8:/5B531E1E" pin "19" net name from "" to "/A6".
+
+Changing component "U8:/5B531E1E" pin "18" net name from "" to "/A7".
+
+Changing component "U8:/5B531E1E" pin "17" net name from "" to "/A17".
+
+Changing component "U8:/5B531E1E" pin "16" net name from "" to "/A18".
+
+Changing component "U8:/5B531E1E" pin "15" net name from "" to "Net-(U5-Pad4)".
+
+Changing component "U8:/5B531E1E" pin "14" net name from "" to "Net-(U6-Pad4)".
+
+Changing component "U8:/5B531E1E" pin "13" net name from "" to "/A21".
+
+Changing component "U8:/5B531E1E" pin "11" net name from "" to "Net-(U4-Pad4)".
+
+Changing component "U8:/5B531E1E" pin "9" net name from "" to "/A19".
+
+Changing component "U8:/5B531E1E" pin "12" net name from "" to "/~IC".
+
+Changing component "U8:/5B531E1E" pin "10" net name from "" to "/A20".
+
+Changing component "U8:/5B531E1E" pin "7" net name from "" to "/A9".
+
+Changing component "U8:/5B531E1E" pin "5" net name from "" to "/A11".
+
+Changing component "U8:/5B531E1E" pin "8" net name from "" to "/A8".
+
+Changing component "U8:/5B531E1E" pin "6" net name from "" to "/A10".
+
+Changing component "U8:/5B531E1E" pin "4" net name from "" to "/A12".
+
+Changing component "U8:/5B531E1E" pin "3" net name from "" to "/A13".
+
+Changing component "U8:/5B531E1E" pin "2" net name from "" to "/A14".
+
+Changing component "U8:/5B531E1E" pin "24" net name from "" to "/A1".
+
+Changing component "U8:/5B531E1E" pin "1" net name from "" to "/A15".
+
+Info: Checking netlist component footprint "U9:/5B531FCB:TXB0108PWR:TSSOP20".
+
+Adding new component "U9:/5B531FCB" footprint "TXB0108PWR:TSSOP20".
+
+Changing component "U9:/5B531FCB" pin "1" net name from "" to "Net-(U8-Pad29)".
+
+Changing component "U9:/5B531FCB" pin "2" net name from "" to "+3V3".
+
+Changing component "U9:/5B531FCB" pin "3" net name from "" to "Net-(U8-Pad31)".
+
+Changing component "U9:/5B531FCB" pin "4" net name from "" to "Net-(U8-Pad33)".
+
+Changing component "U9:/5B531FCB" pin "5" net name from "" to "Net-(U8-Pad35)".
+
+Changing component "U9:/5B531FCB" pin "6" net name from "" to "Net-(U8-Pad38)".
+
+Changing component "U9:/5B531FCB" pin "7" net name from "" to "Net-(U8-Pad40)".
+
+Changing component "U9:/5B531FCB" pin "8" net name from "" to "Net-(U8-Pad42)".
+
+Changing component "U9:/5B531FCB" pin "13" net name from "" to "/D6".
+
+Changing component "U9:/5B531FCB" pin "14" net name from "" to "/D5".
+
+Changing component "U9:/5B531FCB" pin "15" net name from "" to "/D4".
+
+Changing component "U9:/5B531FCB" pin "16" net name from "" to "/D3".
+
+Changing component "U9:/5B531FCB" pin "17" net name from "" to "/D2".
+
+Changing component "U9:/5B531FCB" pin "18" net name from "" to "/D1".
+
+Changing component "U9:/5B531FCB" pin "19" net name from "" to "+5V".
+
+Changing component "U9:/5B531FCB" pin "20" net name from "" to "/D0".
+
+Changing component "U9:/5B531FCB" pin "9" net name from "" to "Net-(U8-Pad44)".
+
+Changing component "U9:/5B531FCB" pin "10" net name from "" to "+3V3".
+
+Changing component "U9:/5B531FCB" pin "12" net name from "" to "/D7".
+
+Changing component "U9:/5B531FCB" pin "11" net name from "" to "GND".
+
+Info: Checking netlist component footprint "U10:/5B53982C:TXB0108PWR:TSSOP20".
+
+Adding new component "U10:/5B53982C" footprint "TXB0108PWR:TSSOP20".
+
+Changing component "U10:/5B53982C" pin "1" net name from "" to "Net-(U10-Pad1)".
+
+Changing component "U10:/5B53982C" pin "2" net name from "" to "+3V3".
+
+Changing component "U10:/5B53982C" pin "3" net name from "" to "Net-(U10-Pad3)".
+
+Changing component "U10:/5B53982C" pin "4" net name from "" to "Net-(U10-Pad4)".
+
+Changing component "U10:/5B53982C" pin "5" net name from "" to "Net-(U10-Pad5)".
+
+Changing component "U10:/5B53982C" pin "6" net name from "" to "Net-(U10-Pad6)".
+
+Changing component "U10:/5B53982C" pin "7" net name from "" to "Net-(U10-Pad7)".
+
+Changing component "U10:/5B53982C" pin "8" net name from "" to "Net-(U10-Pad8)".
+
+Changing component "U10:/5B53982C" pin "13" net name from "" to "/D14".
+
+Changing component "U10:/5B53982C" pin "14" net name from "" to "/D13".
+
+Changing component "U10:/5B53982C" pin "15" net name from "" to "/D12".
+
+Changing component "U10:/5B53982C" pin "16" net name from "" to "/D11".
+
+Changing component "U10:/5B53982C" pin "17" net name from "" to "/D10".
+
+Changing component "U10:/5B53982C" pin "18" net name from "" to "/D9".
+
+Changing component "U10:/5B53982C" pin "19" net name from "" to "+5V".
+
+Changing component "U10:/5B53982C" pin "20" net name from "" to "/D8".
+
+Changing component "U10:/5B53982C" pin "9" net name from "" to "Net-(U10-Pad9)".
+
+Changing component "U10:/5B53982C" pin "10" net name from "" to "+3V3".
+
+Changing component "U10:/5B53982C" pin "12" net name from "" to "/D15".
+
+Changing component "U10:/5B53982C" pin "11" net name from "" to "GND".
+
+Error: Component 'BT1' pad '2' not found in footprint 'digikey-footprints:Battery_Holder_Coin_2032_BS-7'
+
+Error: Component 'BT1' pad '1' not found in footprint 'digikey-footprints:Battery_Holder_Coin_2032_BS-7'
+

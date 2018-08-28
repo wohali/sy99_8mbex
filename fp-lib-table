@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name 74ALVC164245DGG_51)(type Legacy)(uri Z:/Electronics/Footprints/74ALVC164245DGG_51.mod)(options "")(descr ""))
+  (lib (name AZ1117EH-3.3TRG1)(type Legacy)(uri Z:/Electronics/Footprints/AZ1117EH-3.3TRG1.mod)(options "")(descr ""))
+  (lib (name SN74LVC1G97DBVR)(type Legacy)(uri Z:/Electronics/Footprints/SN74LVC1G97DBVR.mod)(options "")(descr ""))
+  (lib (name TXB0108PWR)(type Legacy)(uri Z:/Electronics/Footprints/TXB0108PWR.mod)(options "")(descr ""))
+  (lib (name SOP65P640X120-16N)(type Legacy)(uri Z:/Electronics/Footprints/SOP65P640X120-16N.mod)(options "")(descr ""))
+)
