@@ -1,0 +1,31 @@
+Quantity,RefDes,Mfr Part No.,Digi-Key Part No.,Mouser Part No.,Description
+1,BT1,1053,36-1053-ND,,"battery holder, CR2450"
+3,"C1,C2,C3",T491A105K010AT ,399-9449-1-ND ,,"1uF tant cap 10V 10%, EIA 3216-18 (1206)"
+2,"C4,C5",T491A106M010AT ,399-3686-1-ND ,,"10uF tant cap 10V 20%, EIA 3216-18 (1206)"
+13,"C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18",CL21F104ZAANNNC ,1276-1286-1-ND ,,"100nF cer cap 25V Y5V, 0805"
+1,D1,,,,"5mm red LED, conventional"
+1,D2,,,,"5mm green LED, conventional (not high-intensity)"
+1,J1,640455-2 ,A19450-ND,,"Right angle 2 pin header, 2.54mm, tin"
+1,J2,NPPC202KFMS-RC,S5734-ND,,"2x20 socket strip, SMD, 2.54mm, gold"
+1,J3,1-640456-2 ,A19475-ND,,"MTA-100 1x12 pin header, vertical, keyed, tin"
+1,J4,SBH11-NBPC-D20-SM-BK,S9192-ND,,"Pin header, 2x20, SMD, shrouded, 2.54mm, gold"
+2,"R1,R2",ERJ-6GEYJ102V,P1.0KACT-ND ,,1k res 5% 0805
+1,R3,CRCW08053K30FKEAC,541-4143-1-ND ,,3k3 res 1% 0805
+2,"U1,U2","74ALVC164245DGG,11",1727-2771-ND,,"74ALVC16245 dual supply translating transceiver, TSSOP"
+1,U3,AZ1117EH-3.3TRG1AZ1117EH-3.3TRG1DICT-ND,,"1A 3.3V linear regulator, SOT223"
+3,"U4,U5,U6",SN74LVC1G97DBVR,296-15581-1-ND,,SN74LVC1G97 configurable multifunction gate
+1,U7,BQ2205LYPWR,296-41203-1-ND,,"BQ2205LY SRAM supervisor, battery backup"
+1,U8,AS6C6416-55TIN,1450-1464-ND,913-AS6C6416-55TIN ,"AS6C6416 8MB SRAM, parallel, TSOP I"
+1,U9,SN74LVCH16T245DGGR,296-19568-1-ND,,"SN74LVCH16T245 dual supply translating transceiver, TSSOP"
+,,,,,
+1,,,WM18963-ND,,"Molex 51004-1400 MicroBlade housing, 14pos, 2.00mm"
+12,,,WM18965CT-ND,,"Conn socket 24-30AWG crimp pin, tin"
+1,,4-640441-2,A30941-ND ,,CONN RECEPT 12POS 24AWG MTA100
+,,,,,
+1,,,,,"PCB, custom"
+1.6,,3050 VI005,A2015V-100-ND ,,"24AWG wire, in metres
+100m spool == 53.39 --> 1.7516/m"
+1,,,,,CR2450 battery 8.99/5 Amazon.ca
+0.15,,,,,solder paste
+0.05,,,,,flux pen
+0.1,,59803-1 ,A9982-ND ,,T-HANDLE TOOL MTA-100
