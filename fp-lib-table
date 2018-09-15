@@ -4,4 +4,5 @@
   (lib (name SN74LVC1G97DBVR)(type Legacy)(uri Z:/Electronics/Footprints/SN74LVC1G97DBVR.mod)(options "")(descr ""))
   (lib (name TXB0108PWR)(type Legacy)(uri Z:/Electronics/Footprints/TXB0108PWR.mod)(options "")(descr ""))
   (lib (name SOP65P640X120-16N)(type Legacy)(uri Z:/Electronics/Footprints/SOP65P640X120-16N.mod)(options "")(descr ""))
+  (lib (name SN74LVCH16T245)(type Legacy)(uri Z:/Electronics/Footprints/SN74LVCH16T245.mod)(options "")(descr ""))
 )

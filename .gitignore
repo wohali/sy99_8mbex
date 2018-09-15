@@ -25,4 +25,8 @@ _autosave-*
 *.xml
 *.csv
 
+# Private assets
+bom.xlsx
+
+# Crap
 Thumbs.db
